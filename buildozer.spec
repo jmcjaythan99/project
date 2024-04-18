@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Lottie Demo
+title = My App
 
 # (str) Package name
-package.name = lottiedemo
+package.name = myapp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = dev.tshirtman
